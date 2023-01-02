@@ -7,13 +7,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 </a>
 
 
-<a href="https://twitter.com/Aaman0008">
-  <img align="left" alt="Aaman0008's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman-singh-484549202/">
-  <img align="left" alt="Aman Singh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/aman9113/">
+<a href="https://github.com/keshav-tiwari123/">
   <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/__amansingh__0008/">
